@@ -1,6 +1,8 @@
 # Data-analytics
 data analytics using python by APSSDC in VRSEC
 
+### Day - 1:
+
 1.Introduction to Data Analysis
 
 2. Types of data in realtime/statics
