@@ -14,3 +14,7 @@ data analytics using python by APSSDC in VRSEC
 10. Scientific Computations
 
 12. Vectorized function
+
+**Data-Analytics Workshop Link**
+- [ ] https://github.com/MJNVSai
+- [ ] https://github.com/AP-Skill-Development-Corporation/vrsec_da_6th-jan-2022
