@@ -3,7 +3,7 @@ data analytics using python by APSSDC in VRSEC
 
 ### Day - 1:
 
-1.Introduction to Data Analysis
+1. Introduction to Data Analysis
 
 2. Types of data in realtime/statics
 
@@ -17,7 +17,7 @@ data analytics using python by APSSDC in VRSEC
 
 12. Vectorized function
 
-- **Day2**
+### Day - 2
 
 - Introduction to Pandas module
 
