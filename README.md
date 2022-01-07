@@ -17,6 +17,14 @@ data analytics using python by APSSDC in VRSEC
 
 12. Vectorized function
 
+- **Day2**
+
+- Introduction to Pandas module
+
+- Discussed Series and DataFrames
+
+- Woked with .CSV files and all attributes
+
 **Data-Analytics Workshop Link**
 - [ ] https://github.com/MJNVSai
 - [ ] https://github.com/AP-Skill-Development-Corporation/vrsec_da_6th-jan-2022
