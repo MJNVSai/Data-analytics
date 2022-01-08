@@ -25,6 +25,15 @@ data analytics using python by APSSDC in VRSEC
 
 - Woked with .CSV files and all attributes
 
+### Day - 3
+
+- data visualization using matplotlib and seaborn
+
+- visualized using all the plots such as bar,scatter,bist,box,pair plot etc.
+
+- loaded the datsets using seaborn and sklearn
+
+
 **Data-Analytics Workshop Link**
 - [ ] https://github.com/MJNVSai
 - [ ] https://github.com/AP-Skill-Development-Corporation/vrsec_da_6th-jan-2022
